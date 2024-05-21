@@ -1,0 +1,12 @@
+Package: com.ipr.bytafont
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Ayden Panhuyzen
+Depends: firmware (>> 4.2.1) firmware (<< 7)
+Filename: debs/com.ipr.bytafont_1.5_iphoneos-arm.deb
+Size:277888
+MD5sum: a06d6f5082060ec79d45f513f85a361a
+Section: Tweaks
+Description: BytaFont lets you apply fonts to your iDevice in few taps.
+Author:iPhoneRuler.net
+Name: BytaFont
